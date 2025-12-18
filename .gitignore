@@ -216,4 +216,5 @@ logs/*
 
 
 # db
-db/
+db/*
+!db/.gitkeep
